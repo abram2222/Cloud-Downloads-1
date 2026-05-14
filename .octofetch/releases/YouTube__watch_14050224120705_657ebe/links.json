@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2575",
+  "folder": "YouTube__watch_14050224120705_657ebe",
+  "base_name": "vpn_Google_Apps_Script_100_uqz3lej6iLU_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/abram2222/Cloud-Downloads-1/releases/tag/co-releases-v1-2575",
+  "files": [
+    {
+      "name": "vpn_Google_Apps_Script_100_uqz3lej6iLU_720p.mp4",
+      "url": "https://github.com/abram2222/Cloud-Downloads-1/releases/download/co-releases-v1-2575/vpn_Google_Apps_Script_100_uqz3lej6iLU_720p.mp4",
+      "api_url": "https://api.github.com/repos/abram2222/Cloud-Downloads-1/releases/assets/420167973",
+      "id": 420167973,
+      "size": 70895048,
+      "download_count": 0
+    }
+  ]
+}
