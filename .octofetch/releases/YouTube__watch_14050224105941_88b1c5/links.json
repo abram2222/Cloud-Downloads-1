@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5684",
+  "folder": "YouTube__watch_14050224105941_88b1c5",
+  "base_name": "Honor_600_FfcHgti-5PY_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/abram2222/Cloud-Downloads-1/releases/tag/co-releases-v1-5684",
+  "files": [
+    {
+      "name": "Honor_600_FfcHgti-5PY_1080p.mp4",
+      "url": "https://github.com/abram2222/Cloud-Downloads-1/releases/download/co-releases-v1-5684/Honor_600_FfcHgti-5PY_1080p.mp4",
+      "api_url": "https://api.github.com/repos/abram2222/Cloud-Downloads-1/releases/assets/420128647",
+      "id": 420128647,
+      "size": 390923244,
+      "download_count": 0
+    }
+  ]
+}
