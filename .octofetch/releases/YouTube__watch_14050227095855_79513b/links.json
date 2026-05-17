@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8810",
+  "folder": "YouTube__watch_14050227095855_79513b",
+  "base_name": "Honor_600_PWM_and_dithering_display_comfort_review_9XGiurpLibI_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/abram2222/Cloud-Downloads-1/releases/tag/co-releases-v1-8810",
+  "files": [
+    {
+      "name": "Honor_600_PWM_and_dithering_display_comfort_review_9XGiurpLibI_480p.mp4",
+      "url": "https://github.com/abram2222/Cloud-Downloads-1/releases/download/co-releases-v1-8810/Honor_600_PWM_and_dithering_display_comfort_review_9XGiurpLibI_480p.mp4",
+      "api_url": "https://api.github.com/repos/abram2222/Cloud-Downloads-1/releases/assets/422451085",
+      "id": 422451085,
+      "size": 17630958,
+      "download_count": 0
+    }
+  ]
+}
