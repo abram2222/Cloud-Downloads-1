@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5429",
+  "folder": "YouTube__watch_14050227100315_a1b535",
+  "base_name": "HONOR_600_5G_-_unboxing_hands_on_test_and_1st_impression_-_Philippines_VvC-X2HV00I_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/abram2222/Cloud-Downloads-1/releases/tag/co-releases-v1-5429",
+  "files": [
+    {
+      "name": "HONOR_600_5G_-_unboxing_hands_on_test_and_1st_impression_-_Philippines_VvC-X2HV00I_480p.mp4",
+      "url": "https://github.com/abram2222/Cloud-Downloads-1/releases/download/co-releases-v1-5429/HONOR_600_5G_-_unboxing_hands_on_test_and_1st_impression_-_Philippines_VvC-X2HV00I_480p.mp4",
+      "api_url": "https://api.github.com/repos/abram2222/Cloud-Downloads-1/releases/assets/422452973",
+      "id": 422452973,
+      "size": 63539284,
+      "download_count": 0
+    }
+  ]
+}
