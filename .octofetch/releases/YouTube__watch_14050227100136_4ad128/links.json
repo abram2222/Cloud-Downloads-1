@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4266",
+  "folder": "YouTube__watch_14050227100136_4ad128",
+  "base_name": "Honor_600_Pro_600_Quick_Hands_on_Review_6pmnKXQHDsU_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/abram2222/Cloud-Downloads-1/releases/tag/co-releases-v1-4266",
+  "files": [
+    {
+      "name": "Honor_600_Pro_600_Quick_Hands_on_Review_6pmnKXQHDsU_1080p.mp4",
+      "url": "https://github.com/abram2222/Cloud-Downloads-1/releases/download/co-releases-v1-4266/Honor_600_Pro_600_Quick_Hands_on_Review_6pmnKXQHDsU_1080p.mp4",
+      "api_url": "https://api.github.com/repos/abram2222/Cloud-Downloads-1/releases/assets/422452281",
+      "id": 422452281,
+      "size": 70521746,
+      "download_count": 0
+    }
+  ]
+}
